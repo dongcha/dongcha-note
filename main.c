@@ -2,4 +2,5 @@
 int main()
 {
     printf("%s","孟芳芳脑残\n");
+    printf("%s\n");
 }
